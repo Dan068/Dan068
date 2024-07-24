@@ -1,4 +1,4 @@
-Hello! My name is Daniela. I am a committed student about web development and the creation of innovative digital experiences. Currently, I'm immersed in my training at HENRY where I'm acquiring strong skills in cutting-edge technologies.
+Hello! My name is Daniela. I am a committed student about web development and the creation of innovative digital experiences. 
 💻 Dominant Technologies:
 
 Frontend Development: HTML5, CSS3, JavaScript (ReactJS)
